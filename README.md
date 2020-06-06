@@ -1,5 +1,7 @@
-# aluraNegocios
+# Alura Negocios - Curso de Java Script Avançado
+
 Projeto para administrar suas ações
+Cuso dividido em 3 modulos.
 
 Curso de JavaScript avançado da Alura Online
 
